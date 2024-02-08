@@ -4,9 +4,6 @@ body {
 
 }
 
-div {
-  border: 1px solid red;
-}
 .container{
     height: 40em;
     width: 80em;
@@ -17,7 +14,7 @@ div {
     align-items: center;
 }
 .c1{
-    background-color: red;
+    background-color: cadetblue;
 }
 .c2{
     background-color: rgb(255, 210, 152);
@@ -26,7 +23,7 @@ div {
     background-color: gold;
 }
 .c4{
-    background-color: rgb(159, 255, 223);
+    background-color: #c981fd;
 }
 .c5{
     background-color: rgb(248, 184, 66);
@@ -35,13 +32,13 @@ div {
     background-color: teal;
 }
 .c7{
-    background-color: palevioletred;
+    background-color: rgb(255, 208, 224);
 }
 .c8{
     background-color:rgb(136, 136, 136)
 }
 .c9{
-    background-color: green;
+    background-color: rgb(195, 255, 195);
 }
 .c0{
     background-color: rgb(0, 0, 0);
